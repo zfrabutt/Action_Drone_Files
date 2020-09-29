@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="action_test" type="Drone_Square_as.py" name="Ardrone_Action"  output="screen">
+    </node>
+</launch>
